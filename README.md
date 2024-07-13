@@ -7,7 +7,7 @@ A simple scheduler plugin for Qsys
 
 - Enable the control rows and set the time parameters as needed.
 
-- Use the output control pins to drive logic.
+- Use the output control pins to drive logic or snapshots.
 
 - More plugin instances can be used to add additional days.
 
